@@ -137,6 +137,7 @@ nav ul li a:hover {
 
 .content .feature:hover {
     transform: translateY(-10px);
+    background-color: rgb(127, 186, 238);
 }
 
 .content .feature h3 {
