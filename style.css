@@ -64,8 +64,9 @@ nav ul li a:hover {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(135deg, #007BFF, #00BFFF);
-    color: #fff;
+    background: linear-gradient(to bottom right, #c017ef, rgb(38, 207, 147) 42.86%, #8e39a1);
+    /* background-image: "background.png"; */
+    color: #341d1d;
     padding: 100px 20px;
     text-align: center;
 }
